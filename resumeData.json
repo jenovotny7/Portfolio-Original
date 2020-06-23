@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name":"Jack Novotny",
+    "occupation":"Front-End Web Developer",
+    "description":"Please feel free to review my professional history and contact me with any front-end career opportunities",
+    "image":"profilepic.jpg",
+    "bio":"Aside from my passion for coding. I love my dogs, live music, sports, and the outdoors. ",
+    "contactmessage":"Please feel free to reach out",
+    "email": "jenovotny7@gmail.com",
+    "phone": "901-481-5281",
+    "address":{
+      "street":" USA",
+      "city":"Nashville",
+      "state":"Tennessee",
+      "zip": "37211"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/je_novotny/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jenovotny7",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Tennessee, Knoxville",
+        "degree":"Supply Chain Management",
+        "graduated":"May 2015",
+        "description":""
+      },
+      {
+        "school":"Nucamp Coding",
+        "degree":"Front-End Web Development",
+        "graduated":"February 2020-May 2020",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Dell Technologies",
+        "title":"Account Reprersentative",
+        "years":"January 2019 - November 2019",
+        "description":""
+      },
+      {
+        "company":"Amazon",
+        "title":"Logistics Coordinator",
+        "years":"Septmeber 2017 - June 2018",
+        "description":""
+      },
+
+      {
+        "company":"Coyote Logistics",
+        "title":"Operations Representative",
+        "years":"May 2015 - May 2017",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Adobe Photoshop",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      }
+      
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Street Live",
+        "category":"My Pick-Up Basketball App",
+        "image":"streetlive.jpg",
+        "url":"https://jenovotny7.github.io/Project-X/index.html"
+      },
+      {
+        "title":"Jack's Weather ",
+        "category":"local weather site ",
+        "image":"weather.jpg",
+        "url":"https://github.com/jenovotny7/Jack-Weather-.git"
+      },
+
+      {
+        "title":"Jack Calculator ",
+        "category":"calculator",
+        "image":"calculator.jpg",
+        "url":"https://jenovotny7.github.io/JackCalculator/"
+      }
+
+      
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Jack Novotny must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
