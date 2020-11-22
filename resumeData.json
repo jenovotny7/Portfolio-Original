@@ -115,10 +115,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Street Live",
-        "category":"My Pick-Up Basketball App",
+        "title":"Dendrite",
+        "category":"Dendrite",
         "image":"streetlive.jpg",
-        "url":"https://jenovotny7.github.io/Project-X/index.html"
+        "url":"https://calterat.github.io/dendrite/"
       },
       {
         "title":"Jack's Weather ",
