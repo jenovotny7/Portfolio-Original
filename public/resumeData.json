@@ -125,6 +125,13 @@
         "category":"local weather site ",
         "image":"weather.jpg",
         "url":""
+      },
+      
+      {
+        "title":"Pokemon TCG",
+        "category":"Pokemon Trading Card Game ",
+        "image":"Pokemon.png",
+        "url":"https://pokefinder-tcg.herokuapp.com/"
       }
       
       
